@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  margin-left: 300px;
+}
+body{
+  background-color: black;
+  text-align: center;
+}
+h3{
+  color: bisque;
+}
